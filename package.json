@@ -1,0 +1,17 @@
+{
+  "name": "node-desktop-automation",
+  "version": "1.0.0",
+  "description": "Desktop Automation with NodeJs",
+  "main": "src/main.js",
+  "repository": "https://github.com/jsi1v4/node-desktop-automation.git",
+  "author": "jsi1v4 <git@jsi1v4.com>",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
